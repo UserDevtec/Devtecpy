@@ -1,2 +1,1 @@
-Welcome message to xx.devtec.nl!
-!
+Welcome message to xx.devtec.nl+!
